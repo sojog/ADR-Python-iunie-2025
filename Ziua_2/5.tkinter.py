@@ -1,4 +1,4 @@
-
+## ALIAS tk
 import tkinter 
 
 fereastra = tkinter.Tk()

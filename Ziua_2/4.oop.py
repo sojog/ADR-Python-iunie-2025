@@ -1,7 +1,11 @@
 
 ## OOP -> Object Oriented Programming 
 
-
+"""Trebuie creată clasa STBCard care reprezintă cardul de la regia autonomă de transport București. 
+Atributele necesare sunt: numele deținătorului, călătorii disponibile și creditul disponibil
+În cazul in care nu primește numele deținătorului, setati-l automat pe "Nenominal"
+Setați valoarea unei călătorii validate cu credit la 3 lei.
+Creați funcții automate pentru validare cu credit/validare călătorie și reîncare credit/reîncarcare călătorii """
 
 ## Definirea unei clase - conventie cu litera mare
 class Student:
