@@ -1,0 +1,20 @@
+{
+    "name": {
+        "0": "Classic Margherita Pizza"
+    },
+    "prepTimeMinutes": {
+        "0": 20
+    },
+    "cookTimeMinutes": {
+        "0": 15
+    },
+    "servings": {
+        "0": 4
+    },
+    "caloriesPerServing": {
+        "0": 300
+    },
+    "reviewCount": {
+        "0": 98
+    }
+}

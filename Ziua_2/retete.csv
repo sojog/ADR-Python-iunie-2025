@@ -1,4 +1,4 @@
-,name,prepTimeMinutes,cookTimeMinutes,servings,caloriesPerServing,reviewCount
+index,name,prepTimeMinutes,cookTimeMinutes,servings,caloriesPerServing,reviewCount
 0,Classic Margherita Pizza,20,15,4,300,98
 1,Vegetarian Stir-Fry,15,20,3,250,26
 2,Chocolate Chip Cookies,15,10,24,150,13
